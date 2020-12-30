@@ -1,0 +1,42 @@
+
+/* Class = "UITabBarItem"; title = "Друзья"; ObjectID = "2E6-xy-EeY"; */
+"2E6-xy-EeY.title" = "Друзья";
+
+/* Class = "UITabBarItem"; title = "Item"; ObjectID = "9Ta-fu-czd"; */
+"9Ta-fu-czd.title" = "Item";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "AGQ-0b-MxO"; */
+"AGQ-0b-MxO.text" = "Label";
+
+/* Class = "UILabel"; text = "Авторизация"; ObjectID = "AQ2-R6-E4F"; */
+"AQ2-R6-E4F.text" = "Авторизация";
+
+/* Class = "UITextField"; placeholder = "Введите - admin"; ObjectID = "Ahl-as-g7Z"; */
+"Ahl-as-g7Z.placeholder" = "Введите - admin";
+
+/* Class = "UITabBarItem"; title = "Item"; ObjectID = "AuX-S2-ek5"; */
+"AuX-S2-ek5.title" = "Item";
+
+/* Class = "UITextField"; placeholder = "Пароль - 123"; ObjectID = "FLh-Oi-Km7"; */
+"FLh-Oi-Km7.placeholder" = "Пароль - 123";
+
+/* Class = "UINavigationItem"; title = "Поиск друзей"; ObjectID = "GOg-AV-zvQ"; */
+"GOg-AV-zvQ.title" = "Поиск друзей";
+
+/* Class = "UITabBarItem"; title = "Друзья"; ObjectID = "ISt-aS-0pj"; */
+"ISt-aS-0pj.title" = "Друзья";
+
+/* Class = "UINavigationItem"; title = "Список друзей"; ObjectID = "WlD-Mm-o4p"; */
+"WlD-Mm-o4p.title" = "Список друзей";
+
+/* Class = "UINavigationItem"; title = "Фотографии"; ObjectID = "XG3-Gh-hq5"; */
+"XG3-Gh-hq5.title" = "Фотографии";
+
+/* Class = "UIButton"; normalTitle = "Войти"; ObjectID = "lKu-Yz-7m1"; */
+"lKu-Yz-7m1.normalTitle" = "Войти";
+
+/* Class = "UINavigationItem"; title = "Группы"; ObjectID = "w1s-Cy-yVe"; */
+"w1s-Cy-yVe.title" = "Группы";
+
+/* Class = "UITabBarItem"; title = "Группы"; ObjectID = "xb0-7n-9C1"; */
+"xb0-7n-9C1.title" = "Группы";
